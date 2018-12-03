@@ -1,6 +1,6 @@
 ## DETAIL
   Aplikasi ini dibuat atas permintaan personal, tidak terkait dengan instansi manapun.
-## Theme Name: Bino - Free HTML5 Landing Page Template
+### Theme Name: Bino - Free HTML5 Landing Page Template
 ### http://BootstrapThemes.co
 * Bootstrap Framwork
 * HTML5 
